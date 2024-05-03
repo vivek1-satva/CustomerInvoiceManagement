@@ -1,5 +1,6 @@
 ﻿using System.Reflection;
 using System.Text;
+using DataAccess.Model;
 namespace InvoiceCustomerAuthAPI.Utitlity
 {
     public static class CommonFunction

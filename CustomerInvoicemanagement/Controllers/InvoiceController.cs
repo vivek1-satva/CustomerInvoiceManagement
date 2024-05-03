@@ -2,8 +2,14 @@
 using DataAccessLayer.Models;
 using DataAccessLayer.Services;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Memory;
 using MongoDB.Driver;
+using static Amazon.Runtime.Internal.Settings.SettingsCollection;
+using System.Text;
+using InvoiceCustomerAuthAPI.Utitlity;
+using DinkToPdf;
 using APICRUD_mongodb.CommonjsonResponse;
 
 namespace CustomerInvoiceManagement.Controllers
@@ -86,26 +92,26 @@ namespace CustomerInvoiceManagement.Controllers
             }
 
 
-            var dynamicResponse = new DynamicJsonResponse();
-            //{
+            var dynamicResponse = new DynamicJsonResponse
+            {
 
-            //    CustomerId = invoice.CustomerId,
-            //    LineItems = invoice.LineItems.Select(item => new ItemInvoice
-            //    {
+                CustomerId = invoice.CustomerId,
+                LineItems = invoice.LineItems.Select(item => new ItemInvoice
+                {
 
-            //        ItemCode = item.ItemCode,
-            //        ItemName = item.ItemName,
-            //        ProductDescription = item.ProductDescription,
-            //        UnitPrice = item.UnitPrice,
-            //        Qty = item.Qty,
-            //        SubTotal = item.Qty * item.UnitPrice
-            //    }).ToList(),
-            //    Total = (double)invoice.Total,
-            //    Discount = invoice.Discount,
-            //    DiscountAmount = (double)invoice.DiscountAmount,
-            //    ShippingCharges = invoice.ShippingCharges,
-            //    NetAmount = (double)invoice.NetAmount
-            //};
+                    ItemCode = item.ItemCode,
+                    ItemName = item.ItemName,
+                    ProductDescription = item.ProductDescription,
+                    UnitPrice = item.UnitPrice,
+                    Qty = item.Qty,
+                    SubTotal = item.Qty * item.UnitPrice
+                }).ToList(),
+                Total = (double)invoice.Total,
+                Discount = invoice.Discount,
+                DiscountAmount = (double)invoice.DiscountAmount,
+                ShippingCharges = invoice.ShippingCharges,
+                NetAmount = (double)invoice.NetAmount
+            };
 
             return dynamicResponse;
         }

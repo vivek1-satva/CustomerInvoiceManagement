@@ -2,6 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs/CustomerInvoiceManagement/FileContentIndex/00bbe51e-6665-43c8-bfdb-ea07e68237c8.vsidx
 /.vs/CustomerInvoiceManagement/FileContentIndex
 *.vsidx
 /.vs/CustomerInvoiceManagement/DesignTimeBuild
+/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.props
+/.vs/CustomerInvoiceManagement/v17/.suo
+/.vs/CustomerInvoiceManagement/v17/DocumentLayout.json
+/.vs/CustomerInvoiceManagement/v17/.suo
+/.vs/CustomerInvoiceManagement/v17/DocumentLayout.json
+/.vs/CustomerInvoiceManagement/v17/.suo
