@@ -1,7 +1,16 @@
-var builder = WebApplication.CreateBuilder(args);
+using DataAccessLayer.Repository;
+using DataAccessLayer.Services;
 
+var builder = WebApplication.CreateBuilder(args);
+string connectionString = builder.Configuration.GetSection("ConnectionString").Value.ToString();
+string databaseName = builder.Configuration.GetSection("DatabaseName").Value.ToString();
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddSingleton<IInvoiceInterface>(serviceProvider =>
+{
+    return new InvoiceService(connectionString, databaseName);
+});
 
 var app = builder.Build();
 
