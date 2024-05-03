@@ -6,3 +6,6 @@
 /.vs/CustomerInvoiceManagement/FileContentIndex
 *.vsidx
 /.vs/CustomerInvoiceManagement/DesignTimeBuild
+/DataAccessLayer/obj/DataAccessLayer.csproj.nuget.g.props
+/.vs/CustomerInvoiceManagement/v17/.suo
+/.vs/CustomerInvoiceManagement/v17/DocumentLayout.json
