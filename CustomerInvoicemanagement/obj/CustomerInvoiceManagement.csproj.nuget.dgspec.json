@@ -1,17 +1,90 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj": {}
+    "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj": {
+    "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
+        "projectUniqueName": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
         "projectName": "CustomerInvoiceManagement",
-        "projectPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
+        "projectPath": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
         "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\obj\\",
+        "outputPath": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoiceManagement\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectName": "DataAccessLayer",
+        "projectPath": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +117,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.Identity.Mongo": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            },
+            "AspNetCore.Identity.MongoDbCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -56,9 +143,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.Identity.Mongo": {
+              "target": "Package",
+              "version": "[8.3.3, )"
+            },
+            "AspNetCore.Identity.MongoDbCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

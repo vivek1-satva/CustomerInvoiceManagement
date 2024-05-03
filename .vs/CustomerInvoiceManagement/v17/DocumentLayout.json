@@ -1,12 +1,185 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\chint\\source\\repos\\Joint Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22AE3AEE-5139-4E0E-942D-C415583E8A52}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\chint\\source\\repos\\joint task\\dataaccesslayer\\models\\viewmodels\\customloginrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AE3AEE-5139-4E0E-942D-C415583E8A52}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\viewmodels\\customloginrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AE3AEE-5139-4E0E-942D-C415583E8A52}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\chint\\source\\repos\\joint task\\dataaccesslayer\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AE3AEE-5139-4E0E-942D-C415583E8A52}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|c:\\users\\chint\\source\\repos\\joint task\\customerinvoicemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|solutionrelative:customerinvoicemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|c:\\users\\chint\\source\\repos\\joint task\\customerinvoicemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|solutionrelative:customerinvoicemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|c:\\users\\chint\\source\\repos\\joint task\\customerinvoicemanagement\\customerinvoicemanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|solutionrelative:customerinvoicemanagement\\customerinvoicemanagement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|c:\\users\\chint\\source\\repos\\joint task\\customerinvoicemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|solutionrelative:customerinvoicemanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|c:\\users\\chint\\source\\repos\\joint task\\customerinvoicemanagement\\models\\commonresponseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82423E82-DE34-40E4-912D-1B15F281894A}|CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj|solutionrelative:customerinvoicemanagement\\models\\commonresponseformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AE3AEE-5139-4E0E-942D-C415583E8A52}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\chint\\source\\repos\\joint task\\dataaccesslayer\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AE3AEE-5139-4E0E-942D-C415583E8A52}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\applicationrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AE3AEE-5139-4E0E-942D-C415583E8A52}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\chint\\source\\repos\\joint task\\dataaccesslayer\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AE3AEE-5139-4E0E-942D-C415583E8A52}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoicemanagement\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerInvoicemanagement\\Program.cs",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoicemanagement\\Program.cs",
+              "RelativeToolTip": "CustomerInvoicemanagement\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAkwBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:03:17.409Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomLoginRequestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\Models\\ViewModels\\CustomLoginRequestViewModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\ViewModels\\CustomLoginRequestViewModel.cs",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\Models\\ViewModels\\CustomLoginRequestViewModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\ViewModels\\CustomLoginRequestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:44:40.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:37:57.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CommonResponseFormat.cs",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoicemanagement\\Models\\CommonResponseFormat.cs",
+              "RelativeDocumentMoniker": "CustomerInvoicemanagement\\Models\\CommonResponseFormat.cs",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoicemanagement\\Models\\CommonResponseFormat.cs",
+              "RelativeToolTip": "CustomerInvoicemanagement\\Models\\CommonResponseFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:35:36.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoicemanagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CustomerInvoicemanagement\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoicemanagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CustomerInvoicemanagement\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:35:04.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationRole.cs",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\Models\\ApplicationRole.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\ApplicationRole.cs",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\Models\\ApplicationRole.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\ApplicationRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:29:50.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\DataAccessLayer\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DataAccessLayer\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T13:29:41.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoicemanagement\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerInvoicemanagement\\appsettings.json",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoicemanagement\\appsettings.json",
+              "RelativeToolTip": "CustomerInvoicemanagement\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-03T13:11:01.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerInvoiceManagement",
+              "DocumentMoniker": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
+              "RelativeDocumentMoniker": "CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
+              "ToolTip": "C:\\Users\\chint\\source\\repos\\Joint Task\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
+              "RelativeToolTip": "CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T13:03:01.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
