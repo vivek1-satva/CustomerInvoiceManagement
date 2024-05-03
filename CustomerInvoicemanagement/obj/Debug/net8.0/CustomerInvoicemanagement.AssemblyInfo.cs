@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CustomerInvoiceManagement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d08ea1026ee612b6038742f89e197ab3828e40d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7805a78bb211711f5f48cbec02a745cc43a5b73")]
 [assembly: System.Reflection.AssemblyProductAttribute("CustomerInvoiceManagement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CustomerInvoiceManagement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,3 +11,16 @@ C:\Users\chint\Source\Repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\
 C:\Users\chint\Source\Repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
 C:\Users\chint\Source\Repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
 C:\Users\chint\Source\Repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.sourcelink.json
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\Khush\source\repos\CustomerInvoiceManagement\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

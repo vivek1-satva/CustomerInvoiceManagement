@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chint\\Source\\Repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chint\\Source\\Repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chint\\Source\\Repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\chint\\Source\\Repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chint\\Source\\Repos\\CustomerInvoiceManagement\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Khush\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Khush\\AppData\\Roaming\\NuGet\\NuGet.Config",

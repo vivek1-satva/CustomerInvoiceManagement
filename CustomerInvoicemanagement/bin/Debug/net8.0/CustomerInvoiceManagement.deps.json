@@ -209,6 +209,7 @@
       },
       "DataAccessLayer/1.0.0": {
         "dependencies": {
+          "MongoDB.Bson": "2.25.0",
           "MongoDB.Driver": "2.25.0",
           "Newtonsoft.Json": "13.0.3",
           "Swashbuckle.AspNetCore.Swagger": "6.5.0",
