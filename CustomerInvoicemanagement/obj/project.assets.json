@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chint\\.nuget\\packages\\": {}
+    "C:\\Users\\Khush\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
       "projectName": "CustomerInvoiceManagement",
-      "projectPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
-      "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\obj\\",
+      "projectPath": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\CustomerInvoiceManagement.csproj",
+      "packagesPath": "C:\\Users\\Khush\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\CustomerInvoiceManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Khush\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

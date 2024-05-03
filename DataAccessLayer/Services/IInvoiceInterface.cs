@@ -9,4 +9,4 @@ namespace DataAccessLayer.Services
     public class IInvoiceInterface
     {
     }
-}
+} 

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xGZ+wLr0S/HRgkyDjzIgms7blwzOtFBf3RTPgXgpbNA4+18zgM0wRzWU9zOT6RpzNjk3jWWW8KC44/d4giM6BQ==",
+  "dgSpecHash": "6yoA+XLDd+Gahki2a+byRXlIk7DiOIGCNUrJ4xltetoIWaeX0Ojt149bWrcQcpreggwqGvabp8D+QRckcbdAPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Khush\\.nuget\\packages\\mongodb.bson\\2.25.0\\mongodb.bson.2.25.0.nupkg.sha512",
+    "C:\\Users\\Khush\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Khush\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
