@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chint\\.nuget\\packages\\": {}
+    "C:\\Users\\Khush\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
-      "packagesPath": "C:\\Users\\chint\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chint\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\obj\\",
+      "projectPath": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+      "packagesPath": "C:\\Users\\Khush\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Khush\\source\\repos\\CustomerInvoiceManagement\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Khush\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
